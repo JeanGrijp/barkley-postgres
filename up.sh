@@ -19,4 +19,4 @@ fi
 # 3) sobe o postgres
 docker-compose up -d --remove-orphans
 
-echo "Postgres subiu (container bk_postgres). Use ./print-connection.sh para ver a connection string."
+echo "Postgres subiu (container barkley_postgres). Use ./print-connection.sh para ver a connection string."
